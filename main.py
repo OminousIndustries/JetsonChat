@@ -13,8 +13,8 @@ from face_animation.face import FaceAnimator
 def main():
     # 1) Setup face animator in a separate thread
     face_animator = FaceAnimator(
-        face_image_path="/home/omns/Desktop/Face2.png",
-        mouth_image_path="/home/omns/Desktop/Jetson_Chat/assets/Mouth2.png",
+        face_image_path="assets/Face2.png",
+        mouth_image_path="assets/Mouth2.png",
         window_size=(800, 600),
         min_scale=1.0,
         max_scale=2.5
