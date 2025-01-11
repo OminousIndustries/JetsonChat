@@ -33,7 +33,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 ### 4. Run Ollama Model
 
-Start the Ollama service and run the LLaMA model:
+Run the Llama model to download it and Start the Ollama service:
 
 ```bash
 ollama run llama3.2:1b
