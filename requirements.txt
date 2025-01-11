@@ -1,0 +1,6 @@
+numpy
+pygame
+pyaudio
+requests
+soundfile
+silero
