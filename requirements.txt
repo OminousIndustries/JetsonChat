@@ -14,4 +14,4 @@ silero-vad==5.1.2
 soundfile==0.13.0
 sympy==1.13.1
 typing_extensions==4.12.2
-urllib3==2.3.0"
+urllib3==2.3.0
