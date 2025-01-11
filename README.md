@@ -47,6 +47,7 @@ Clone the repository and install required Python packages:
 ```bash
 git clone https://github.com/OminousIndustries/JetsonChat
 cd JetsonChat
+sudo apt-get install portaudio19-dev
 pip install -r requirements.txt
 ```
 
