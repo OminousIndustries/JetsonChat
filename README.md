@@ -1,6 +1,8 @@
 # JetsonChat
 
-An experimental chat application designed to run on NVIDIA Jetson devices using Ollama and small Llama3.2 models. This repository provides a simple implementation of an offline chatbot.
+An experimental chat application designed to run on NVIDIA Jetson devices using Ollama, small Llama3.2 models and the Silero Family of models for TTS/STT/VAD: https://github.com/snakers4/silero-models
+
+This repository provides a simple implementation of an offline chatbot.
 
 ## Important Notes
 
